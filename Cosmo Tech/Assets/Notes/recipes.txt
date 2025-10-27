@@ -1,0 +1,12 @@
+brass = copper + zinc
+bronze = copper + tin
+solder = lead + tin
+carbonize zinc = energyzium
+carbonize iron = steel
+plate of metal = metal ingot in crusher
+sand = rock in crusher
+glass = cook sand in smelter
+water + oil bottle = put bottle in offshore pump
+fuel = cook oil
+plastic = carbonize oil
+microprocessor = with plastic, gold, copper and silver

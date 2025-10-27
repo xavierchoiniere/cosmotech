@@ -1,0 +1,34 @@
+alloy smelter screen and logic
+
+crusher interaction (drop item near and press e to crush)
+
+power system (generators, cables, drill)
+
+fishing, water structures logic
+
+bees
+
+rock silkworms
+
+way to get feathers
+
+
+other planets (lush, volcanic, frozen, desert)
+
+weather logic
+
+
+ideas:
+randomly have a weather condition after a few days:
+
+blizzard: everything is frozen and slippery
+solar flare: everything can catch on fire
+thunderstorm: heavy rains will make your structures wet and lightning will come down, zapping you (or a lightning rod)
+eclipse: the player will have restricted vision unless they have light sources
+
+acid rain: happens when you pollute too much, disintegrates tools and resources on the map, can also break buildings overtime
+meteor shower: meteor might fall breaking things in their path but dropping valuable resources when mined
+
+pollen (everything grows but allergies), eruption (during solar flare)
+
+
