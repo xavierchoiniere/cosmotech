@@ -1,0 +1,1 @@
+This repository is to hold the code for my personal Unity project, temporarily titled Cosmo Tech. The goal of this project was to explore the different multiplayer functions offered by Unity, how to create a P2P (peer-to-peer) network. I was also looking to learn about world generation and how to integrate the mechanics of biomes and weather.
