@@ -1,2 +1,2 @@
 # cosmotech
-Repo for my personal project, currently named Cosmo Tech. Is used to explore Unity's multiplayer functions like Netcode for Gameobjects and how to create P2P networks. Also used to explore world generation, biomes and weather in games.
+Repo for my personal project, currently named Cosmo Tech. This project is used to explore Unity's multiplayer functions like Netcode for Gameobjects and how to create P2P networks. It is also used to explore world generation, biomes and weather in games.
