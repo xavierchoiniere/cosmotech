@@ -15,7 +15,7 @@ public class Slot : MonoBehaviour
         UIItem uiItem = GetComponentInChildren<UIItem>();
         if (uiItem != null && uiItem.itemAmount != null && transform.parent.CompareTag("Slot Holder"))
         {
-            if (itemId > 599 || itemId < 500) quantity = int.Parse(uiItem.itemAmount.text);
+            if (itemId > 599 || itemId < 500) quantity = int.Parse(uiItem.itemAmount.text); // IDs used for tools are in the 500s
             else quantity = Mathf.RoundToInt(transform.GetComponentInChildren<UniqueToolDurability>().currentDurability);
         }
         if (transform.childCount == 0)

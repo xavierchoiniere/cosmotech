@@ -21,7 +21,7 @@ public class InteractableStructure : MonoBehaviour
 
     virtual protected void DoInteractiveAction() { }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    virtual protected void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player" && other.GetComponent<PlayerNetwork>().indivStructManager.nearestStruct == this && !other.GetComponent<PlayerNetwork>().indivStructManager.isPlacingStruct 
             && other.GetComponent<PlayerNetwork>().IsLocalPlayer)
